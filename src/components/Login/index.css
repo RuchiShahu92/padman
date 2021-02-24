@@ -1,0 +1,14 @@
+.login-form, .login-container {
+	height: 100%
+}
+
+.login-box {
+	max-width: 500px;
+}
+
+.login-form form .ui.piled.segment {
+	height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
